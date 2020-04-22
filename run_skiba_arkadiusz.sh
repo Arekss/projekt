@@ -2,9 +2,13 @@
 
 case "$1" in
    "clone")
-	 git clone https://github.com/Arekss/GameOfLife.git
+	 git clone https://github.com/Arekss/projekt.git
    ;;
    "clean")
-	 rm -Rf GameOfLife
+	 sudo rm -Rf projekt
+	 sudo rm -Rf updatedScript
+   ;;
+   "update")
+	 git clone https://github.com/Arekss/updatedScript.git
    ;;
 esac

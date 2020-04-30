@@ -11,12 +11,4 @@ case "$1" in
    "update")
 	 git clone https://github.com/Arekss/updatedScript.git
    ;;
-  "run")
- 	if [[ -d "projekt" ]]
-  	then
-        cd projekt
-  	fi
-  	docker build -t arkadiusz:1.0 .
-  	docker run -it arkadiusz:1.0
-   ;;
 esac

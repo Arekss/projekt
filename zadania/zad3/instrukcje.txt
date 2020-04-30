@@ -7,5 +7,13 @@
  a) przydatne polecenie: lcov --capture --directory . --output-file main_coverage.info
 6) przedstaw wyniki w formacie html
  a) przydatne polecenie: genhtml main_coverage.info --output-directory reports
-7) otworz plik reports/index.html
-8) sprawdz zgodnosc wyniku z oczekiwaniem
+ b) po wykonaniu podpunktu a) z punktu 6) pojawi sie na koncu outputu:
+  lines......: ??.?% (?? of 216 lines)
+                      ^
+                      ^
+		      ^
+          Liczba stad jest wynikiem zadania  
+
+
+7) Dla chetnych:
+otworz i przeanalizuj plik reports/index.html (w Dockerze sie nie da - trzeba zmapowac folder do hosta)

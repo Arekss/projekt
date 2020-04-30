@@ -17,3 +17,8 @@ Bibliografia:
     https://medium.com/@naveen.maltesh/generating-code-coverage-report-using-gnu-gcov-lcov-ee54a4de3f11
 
 
+Zadania:
+
+Instrukcje do zadan w osobnych folderach. Zadania 1 i 2 latwe. Zadanie 3 nieco trudniejsze.
+
+

@@ -26,7 +26,7 @@ Wynikiem zadania jest plik html. Aby go uruchomic bedziemy musieli skopiowac go 
 5) Otwieramy nowy terminal u siebie lokalnie. Kopiujemy folder 'zad3' do hosta.
  
  a) wykonujemy polecenie sudo docker ps
- b) kopiujemy CONTAINER ID kontenera niskopoziomowe
+ b) kopiujemy CONTAINER ID kontenera 'kontenerAS'
  c) wykonujemy polecenie sudo docker cp $skopiowaneID:/home/root/exercises/zad3 ~/sciezka/gdzie/chcemy
  d) odpalamy raport np firefoxem: firefox report/index.html
  e) przegladamy raport, glownie plik Game.cpp gdyz tam dopisywalismy testy

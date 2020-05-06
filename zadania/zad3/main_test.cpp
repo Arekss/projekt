@@ -2,10 +2,12 @@
 /// tak aby 
 /// program sie kompilowal i poprawnie wykonywal,
 /// dajac pozywtywny wynik wszystkim 3 testom.
-
-/// pomocne bedzie zajrzenie do plikow Game.cpp oraz Cell.h
 /// nie wolno modyfikowac innych plikow
 /// oraz dodawac wlasnych includow
+
+/// Pomocne bedzie zajrzenie do plikow Game.cpp oraz Cell.h
+/// Program mozna uzupelnic na wiele sposobow,
+/// Kazdy powodujacy 'zielone' testy jest dobry
 
 
 
